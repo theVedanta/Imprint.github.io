@@ -892,6 +892,14 @@ footer {
 
 /* Medias ------------------------------------------------------------------------------------------ */
 @media (max-width: 1600px) {
+    .input {
+        width: 60%;
+    }
+    .newsLetter button {
+        padding: 1vh 3vw;
+    }
+}
+@media (max-width: 1200px) {
     .abtBox {
         width: 60%;
         height: 90%;
@@ -923,14 +931,6 @@ footer {
         font-size: 1.8vh;
         padding: 1.2vh 4vw;
     }
-    .input {
-        width: 60%;
-    }
-    .newsLetter button {
-        padding: 1vh 3vw;
-    }
-}
-@media (max-width: 1200px) {
     .sideActive {
         width: 40%;
     }

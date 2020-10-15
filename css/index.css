@@ -981,9 +981,6 @@ footer {
     }
 }
 @media (max-width: 400px) {
-    * {
-        background-attachment: scroll;
-    }
     .mainHero h1 {
         font-size: 22vw;
     }

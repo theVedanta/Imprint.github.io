@@ -889,7 +889,11 @@ footer {
 .subFoot a:hover {
     color: rgb(152, 153, 153);
 }
-
+.right {
+    background: #010101;
+    text-align: center;
+    color: rgb(66, 66, 66);
+}
 /* Medias ------------------------------------------------------------------------------------------ */
 @media (max-width: 1600px) {
     .input {
